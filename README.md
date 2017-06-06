@@ -2,7 +2,7 @@
 
 Curso desarrollado para el Programa de Tecnología en Cómputo de la Universidad Nacional Autónoma de México. 
 
-* [Temario](https://github.com/alejandrozepeda/curso-python-3/wiki/0.-Temario)
+* [Temario](https://github.com/alejandrozepeda/curso-python-3/wiki)
 
 Curso desarrollado por: 
 
