@@ -40,7 +40,7 @@ Curso desarrollado para el Programa de Tecnología en Cómputo de la Universidad
 * [Alejandro Zepeda](https://github.com/alejandrozepeda)
 * [Jorge Bañuelos](https://github.com/JorgeBanuelos)
 
-### Sugerencias, errores o dudas: 
+### Sugerencias, errores o dudas:
 
 * hola [at] alejandrozepeda.mx
 * jorge.banuelos95 [at] gmail.com
