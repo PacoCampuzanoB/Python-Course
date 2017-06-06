@@ -9,7 +9,7 @@ Curso desarrollado por:
 * [Alejandro Zepeda](https://github.com/alejandrozepeda)
 * [Jorge Bañuelos](https://github.com/JorgeBanuelos)
 
-Dudas: 
+Sugerencias, errores y dudas: 
 
 * hola [at] alejandrozepeda.mx
 * jorge.banuelos95 [at] gmail.com
