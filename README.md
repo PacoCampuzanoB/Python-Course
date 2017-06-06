@@ -20,7 +20,7 @@ Curso desarrollado para el Programa de Tecnología en Cómputo de la Universidad
 9. [Excepciones](https://github.com/alejandrozepeda/curso-python-3/wiki/Excepciones)
 10. [Expresiones regulares](https://github.com/alejandrozepeda/curso-python-3/wiki/Expresiones-regulares)
 11. [Ejecución en red](https://github.com/alejandrozepeda/curso-python-3/wiki/Ejecuci%C3%B3n-en-red)
-12. [Bases de datos](https://github.com/alejandrozepeda/curso-python-3/wiki/Bases-de-datos)
+12. [Base de datos](https://github.com/alejandrozepeda/curso-python-3/wiki/Base-de-datos)
 13. [Programación concurrente](https://github.com/alejandrozepeda/curso-python-3/wiki/Programaci%C3%B3n-concurrente)
 14. [Interfaces gráficas con TkInter](https://github.com/alejandrozepeda/curso-python-3/wiki/Interfaces-gr%C3%A1ficas-con-TkInter)
 
