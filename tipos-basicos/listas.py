@@ -85,13 +85,13 @@ print(z)
 
 # Eliminar datos
 x = [1, 2, 3, 4, 5, 6, 7, 8] 
-del x[1] # Elimina el dato 2 que se encuentra en el indice 1
+del(x[1]) # Elimina el dato 2 que se encuentra en el indice 1
 print(x)
 
-del x[:2] # Elimina los datos desde el indice 0 al indice 2, sin incluir el 2
+del(x[:2]) # Elimina los datos desde el indice 0 al indice 2, sin incluir el 2
 print(x)
 
-del x[2:] # Elimina los datos desde el indice 2 hasta el final
+del(x[2:]) # Elimina los datos desde el indice 2 hasta el final
 print(x)
 
 # Eliminar con remove

@@ -1,21 +1,17 @@
-# Diccionarios
-# Es un conjunto desordenado de datos clave-valor (key-values)
-# Las claves de un diccionario deben ser unicas
-
 # Creacion de diccionarios
 x = {}
-
 x['red'] = "rojo"
 x['green'] = "verde"
 x["blue"] = "azul"
-
 print(x)
 
+# Creacion de diccionarios
 x = {"red":"rojo", "green":"verde", "blue":"azul"}
+print(x)
 
 # Las claves y valores pueden ser de tipos diferentes
 y = {"uno":1, 2:"dos", 2.5:"flotante", "lista":[1,2,3], "tupla":(0,1)}
-print(y[2.5])
+print(y)
 
 # Modificando un diccionario 
 y["white"] = "blanco"
