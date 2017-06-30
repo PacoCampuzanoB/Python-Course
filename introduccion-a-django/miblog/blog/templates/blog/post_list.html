@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>Mi blog</title>
+</head>
+<body>x
+	<h1>Bienvenido al blog</h1>
+	<br>
+	<!-- Comentario -->
+	{% for post in posts %}
+		<div>
+			<h2>{{ post.title }}</h2>
+			<p>{{ post.published_date }}</p>
+			<p>{{ post.text }}</p>
+		</div>
+	{% endfor %}
+</body>
+</html>
